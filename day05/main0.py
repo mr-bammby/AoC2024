@@ -32,7 +32,6 @@ for update in updates:
     half_num = -1
     first_num_chk = [False] * rules_len
     second_num_chk = [False] * rules_len
-    cnt = 0
     err = False
     num_cnt = 0
     for num in update:
